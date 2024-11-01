@@ -1,0 +1,49 @@
+.paypal-confirm-box {
+	width:683px;
+}
+.infoMessage-show #infoMessage{
+	text-align:center;
+
+}
+#formID .ppa-title {
+    font-size: 2.7rem;
+    line-height: 1.1852;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+#formID input, #formID select, #formID textarea {
+    background-color: #f7f7f7;
+    border-radius: 0;
+    display: block;
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 5px 0;
+    max-width: 100%;
+    vertical-align: baseline;
+    width: 100%;
+}
+.control-label {
+    display: block;
+}
+.ppa-initial-amount .control-label {
+    display:inline;
+}
+
+.ppa-amount .control-label {
+    display:inline;
+}
+
+
+#formID button, #formID .button, #formID input[type="button"], #formID input[type="reset"], #formID input[type="submit"] {
+    background-color: #333;
+    font-size: 16px;
+    margin: 10px 0;
+	color:#fff;
+}
+#formID button:hover, #formID input[type="button"]:hover, #formID input[type="reset"]:hover, #formID input[type="submit"]:hover, #formID button:focus, #formID input[type="button"]:focus, #formID input[type="reset"]:focus, #formID input[type="submit"]:focus {
+    background-color: rgba(51, 51, 51, 0.7);
+    outline: 0 none;
+}
+/*.initial_amount_hide {
+	display:none;
+}*/
